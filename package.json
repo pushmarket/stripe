@@ -1,6 +1,6 @@
 {
   "name": "@pushmarket/stripe",
-  "version": "3.9.3",
+  "version": "3.9.4",
   "description": "Stripe SDK bindings for Capacitor Applications",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
